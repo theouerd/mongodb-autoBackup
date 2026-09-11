@@ -25,6 +25,6 @@
   "homepage": "https://github.com/theouerd/mongodb-autoBackup#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
